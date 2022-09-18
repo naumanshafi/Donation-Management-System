@@ -20,16 +20,16 @@ Also, funds are not the only donation items. At times donors also donate in form
 
 # Scope
 Our objective is to create an a well-known Donation
-Management platform. Through this platform, Funds are collected and disbursed to the needy (subjects / beneficiaries) . We are hopeful to complete this project by the end
-of the current semester.<br /><br />
+Management platform. Through this platform, Funds are collected and disbursed to the needy (subjects / beneficiaries) . We are hopeful to complete this project by the end of the current semester.<br /><br />
 The project will be developed in phases:<br />
 ● First phase is related to planning and elaborating the functionalities and requirements.<br />
 ● Second phase is confined to designing and implementation.<br />
 ● Third phase includes integration and various testing techniques.<br />
-Each phase has a deliverable which will be really helpful and act as a measure of progress achieved
-so far in the project for the stakeholders interested. The deliverables will be timely and accurate.<br />
-There are certain issues/risks associated with our project. As described below:
-● Collaboration issues and risks can really affect the working of our project.<br />
+● Each phase has a deliverable which will be really helpful and act as a measure of progress achieved
+so far in the project for the stakeholders interested. <br />
+● The deliverables will be timely and accurate.<br />
+● There are certain issues/risks associated with our project. As described below:
+      Collaboration issues and risks can really affect the working of our project.<br />
 
 
 # Functional Requirements
@@ -50,5 +50,7 @@ donating to.
 
 # Tool/Technology Used:
 **JavaFX**<br />
+**OOAD Concept**<br />
 **Netbeans**<br />
 **JDk 1.7**<br />
+
